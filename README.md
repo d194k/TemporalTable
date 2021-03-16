@@ -21,7 +21,7 @@ For more information
 
 ### get-employee 
 1. --employeeId, INT, Mandatory 
-2. 2. --simulatedTimeUtc, DateTime, Optional, Default = Now
+2. --simulatedTimeUtc, DateTime, Optional, Default = Now
 
 ### set-employee 
 1. --employeeId, INT, Mandatory 
