@@ -1,0 +1,9 @@
+C:\Users\Dipak\source\repos\Employee\EMP.DomainModels\bin\Debug\netcoreapp3.1\EMP.DomainModels.deps.json
+C:\Users\Dipak\source\repos\Employee\EMP.DomainModels\bin\Debug\netcoreapp3.1\EMP.DomainModels.dll
+C:\Users\Dipak\source\repos\Employee\EMP.DomainModels\bin\Debug\netcoreapp3.1\EMP.DomainModels.pdb
+C:\Users\Dipak\source\repos\Employee\EMP.DomainModels\obj\Debug\netcoreapp3.1\EMP.DomainModels.csprojAssemblyReference.cache
+C:\Users\Dipak\source\repos\Employee\EMP.DomainModels\obj\Debug\netcoreapp3.1\EMP.DomainModels.AssemblyInfoInputs.cache
+C:\Users\Dipak\source\repos\Employee\EMP.DomainModels\obj\Debug\netcoreapp3.1\EMP.DomainModels.AssemblyInfo.cs
+C:\Users\Dipak\source\repos\Employee\EMP.DomainModels\obj\Debug\netcoreapp3.1\EMP.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Dipak\source\repos\Employee\EMP.DomainModels\obj\Debug\netcoreapp3.1\EMP.DomainModels.dll
+C:\Users\Dipak\source\repos\Employee\EMP.DomainModels\obj\Debug\netcoreapp3.1\EMP.DomainModels.pdb

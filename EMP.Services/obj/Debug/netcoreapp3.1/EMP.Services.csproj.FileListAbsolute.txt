@@ -1,0 +1,14 @@
+C:\Users\Dipak\source\repos\Employee\EMP.Services\bin\Debug\netcoreapp3.1\EMP.Services.deps.json
+C:\Users\Dipak\source\repos\Employee\EMP.Services\bin\Debug\netcoreapp3.1\EMP.Services.dll
+C:\Users\Dipak\source\repos\Employee\EMP.Services\bin\Debug\netcoreapp3.1\EMP.Services.pdb
+C:\Users\Dipak\source\repos\Employee\EMP.Services\bin\Debug\netcoreapp3.1\EMP.Entities.dll
+C:\Users\Dipak\source\repos\Employee\EMP.Services\bin\Debug\netcoreapp3.1\EMP.Entities.pdb
+C:\Users\Dipak\source\repos\Employee\EMP.Services\obj\Debug\netcoreapp3.1\EMP.Services.csprojAssemblyReference.cache
+C:\Users\Dipak\source\repos\Employee\EMP.Services\obj\Debug\netcoreapp3.1\EMP.Services.AssemblyInfoInputs.cache
+C:\Users\Dipak\source\repos\Employee\EMP.Services\obj\Debug\netcoreapp3.1\EMP.Services.AssemblyInfo.cs
+C:\Users\Dipak\source\repos\Employee\EMP.Services\obj\Debug\netcoreapp3.1\EMP.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dipak\source\repos\Employee\EMP.Services\obj\Debug\netcoreapp3.1\EMP.Services.csproj.CopyComplete
+C:\Users\Dipak\source\repos\Employee\EMP.Services\obj\Debug\netcoreapp3.1\EMP.Services.dll
+C:\Users\Dipak\source\repos\Employee\EMP.Services\obj\Debug\netcoreapp3.1\EMP.Services.pdb
+C:\Users\Dipak\source\repos\Employee\EMP.Services\bin\Debug\netcoreapp3.1\EMP.DomainModels.dll
+C:\Users\Dipak\source\repos\Employee\EMP.Services\bin\Debug\netcoreapp3.1\EMP.DomainModels.pdb

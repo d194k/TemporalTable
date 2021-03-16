@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EmployeeConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "get-employee --employeeId 1 --simulatedTimeUtc \"2021-03-15T19:30:40Z\""
+    }
+  }
+}

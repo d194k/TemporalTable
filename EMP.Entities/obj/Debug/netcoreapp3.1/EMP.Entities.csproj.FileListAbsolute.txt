@@ -1,0 +1,12 @@
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\obj\Debug\netcoreapp3.1\EMP.Entities.AssemblyInfoInputs.cache
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\obj\Debug\netcoreapp3.1\EMP.Entities.AssemblyInfo.cs
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\obj\Debug\netcoreapp3.1\EMP.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\bin\Debug\netcoreapp3.1\EMP.Entities.deps.json
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\bin\Debug\netcoreapp3.1\EMP.Entities.runtimeconfig.json
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\bin\Debug\netcoreapp3.1\EMP.Entities.runtimeconfig.dev.json
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\bin\Debug\netcoreapp3.1\EMP.Entities.dll
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\bin\Debug\netcoreapp3.1\EMP.Entities.pdb
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\obj\Debug\netcoreapp3.1\EMP.Entities.dll
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\obj\Debug\netcoreapp3.1\EMP.Entities.pdb
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\obj\Debug\netcoreapp3.1\EMP.Entities.genruntimeconfig.cache
+C:\Users\Dipak\source\repos\Employee\EMP.Entities\obj\Debug\netcoreapp3.1\EMP.Entities.csprojAssemblyReference.cache
